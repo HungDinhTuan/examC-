@@ -1,0 +1,14 @@
+E:\a\a.c#\ExamC#\ExamC#\bin\Debug\net8.0\ExamC#.exe
+E:\a\a.c#\ExamC#\ExamC#\bin\Debug\net8.0\ExamC#.deps.json
+E:\a\a.c#\ExamC#\ExamC#\bin\Debug\net8.0\ExamC#.runtimeconfig.json
+E:\a\a.c#\ExamC#\ExamC#\bin\Debug\net8.0\ExamC#.dll
+E:\a\a.c#\ExamC#\ExamC#\bin\Debug\net8.0\ExamC#.pdb
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ExamC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ExamC#.AssemblyInfoInputs.cache
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ExamC#.AssemblyInfo.cs
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ExamC#.csproj.CoreCompileInputs.cache
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ExamC#.dll
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\refint\ExamC#.dll
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ExamC#.pdb
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ExamC#.genruntimeconfig.cache
+E:\a\a.c#\ExamC#\ExamC#\obj\Debug\net8.0\ref\ExamC#.dll
