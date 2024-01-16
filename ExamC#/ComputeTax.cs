@@ -10,13 +10,26 @@ namespace ExamC_
     {
         public double computeTaxTotal(List<Product> products)
         {
-            double totalTax = 0;
+            double totalBookTax = 0;
+            double totalPhonetax = 0;
 
-            for (int i = 0; i < products.Count ; i++)
+            foreach (var product in products)
             {
-                totalTax += products[i].computeTax();
+                if (product is Book book)
+                {
+                    totalBookTax += book.computeTax();
+                }
+
+                if (product is MobilePhone phone)
+                {
+                    totalPhonetax += phone.computeTax();
+                }
             }
-            return totalTax;
+
+            Console.WriteLine("Total tax of the books : " + totalBookTax);
+            Console.WriteLine("Total tax of the phones : " + totalPhonetax);
+
+            return totalBookTax + totalPhonetax;
         }
     }
 }
